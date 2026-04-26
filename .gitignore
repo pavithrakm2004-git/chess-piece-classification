@@ -1,0 +1,9 @@
+# Ignore processed and raw image data
+data/raw/
+data/processed/
+
+# Ignore system files
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
