@@ -24,13 +24,23 @@ from top-down board images using HOG features and SVM classifier.
 
 ## Project Structure
 chess-piece-classifier/
+
 ├── data/
+
 │   ├── raw/          (not tracked by git)
+
 │   └── processed/    (not tracked by git)
+
 ├── notebooks/
+
 │   └── 01_data_understanding.ipynb
+
 ├── src/
+
 │   ├── preprocess.py
+
 │   └── augment.py
+
 ├── requirements.txt
+
 └── README.md
