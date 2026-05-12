@@ -5,9 +5,9 @@ Classifying chess pieces (12 classes: white/black × 6 piece types)
 from top-down board images using HOG features and SVM classifier.
 
 ## Team
-- Member 1: Data Preparation & Preprocessing
-- Member 2: Feature Engineering & Dimensionality Reduction  
-- Member 3: Modeling, Evaluation & Analysis
+- **PAVITHRA K M**: Data Preparation & Preprocessing
+- **ANGEL GEORGE**: Feature Engineering & Dimensionality Reduction  
+- **YADHU KRISHNAN V B**: Modeling, Evaluation & Analysis
 
 ## Dataset
 - Source: Kaggle (s4lman chess-pieces-dataset-85x85)
@@ -24,13 +24,23 @@ from top-down board images using HOG features and SVM classifier.
 
 ## Project Structure
 chess-piece-classifier/
+
 ├── data/
+
 │   ├── raw/          (not tracked by git)
+
 │   └── processed/    (not tracked by git)
+
 ├── notebooks/
+
 │   └── 01_data_understanding.ipynb
+
 ├── src/
+
 │   ├── preprocess.py
+
 │   └── augment.py
+
 ├── requirements.txt
+
 └── README.md
