@@ -50,3 +50,14 @@ chess-piece-classifier/
 Model Deployed using Streamlit
 
 App link: http://localhost:8501/
+
+## Screenshots
+
+<img width="1873" height="893" alt="Screenshot 2026-05-15 120259" src="https://github.com/user-attachments/assets/504007d4-5841-49cd-8c05-e1220ebb079d" />
+
+<img width="1873" height="893" alt="Screenshot 2026-05-15 120259" src="https://github.com/user-attachments/assets/2ccf1403-0499-4978-987a-c5c9bcd3ad67" />
+
+<img width="1898" height="879" alt="Screenshot 2026-05-15 120558" src="https://github.com/user-attachments/assets/ff25b93a-cd7b-458e-808e-31261884766f" />
+
+
+
