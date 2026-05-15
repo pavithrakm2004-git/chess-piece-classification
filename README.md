@@ -15,7 +15,7 @@ from top-down board images using HOG features and SVM classifier.
             b_king, b_queen, b_rook, b_bishop, b_knight, b_pawn)
 - Total images after augmentation: 2400 (200 per class)
 
-## Preprocessing Pipeline (Member 1)
+## Preprocessing Pipeline 
 1. Class audit and dataset selection
 2. Color-based splitting: 6 classes → 12 classes
 3. Grayscale conversion + resize to 64×64
