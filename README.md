@@ -1,7 +1,6 @@
 # ♟️ Chess Piece Classification using HOG + SVM
 
 
-
 ## 📖 Project Overview
 This project classifies chess pieces into **12 classes** (white/black × 6 piece types) from
 top-down board images using **HOG features** and **SVM classifier**.
@@ -78,10 +77,12 @@ App link: https://chess-classifier.streamlit.app
 
 ## 🛠️ Tech Stack
 - Python
-- OpenCV
-- Scikit-learn
+- OpenCV (cv2)
+- Scikit-learn (SVM, Random Forest, PCA, SelectKBest)
 - HOG (Histogram of Oriented Gradients)
 - Streamlit
+- Matplotlib / Seaborn
+- Pickle (model serialization) 
 
 
 
