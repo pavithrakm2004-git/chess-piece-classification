@@ -61,6 +61,8 @@ App link: https://chess-classifier.streamlit.app
 
 ## Screenshots
 
+<img width="1040" height="548" alt="image" src="https://github.com/user-attachments/assets/a8a1fd14-9842-47ef-8a8d-54be098fee09" />
+
 <img width="1007" height="602" alt="Screenshot 2026-05-15 173629" src="https://github.com/user-attachments/assets/e90bb543-24dc-45d9-9e13-8cf7e85a1457" />
 <img width="1023" height="465" alt="Screenshot 2026-05-15 183215" src="https://github.com/user-attachments/assets/906b6554-70aa-4836-9d0c-2945ea730be4" />
 
