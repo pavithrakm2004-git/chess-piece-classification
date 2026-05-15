@@ -1,15 +1,16 @@
 # ♟️ Chess Piece Classification using HOG + SVM
 
 
+
 ## 📖 Project Overview
 This project classifies chess pieces into **12 classes** (white/black × 6 piece types) from
 top-down board images using **HOG features** and **SVM classifier**.
 
 ## 👥 Team
 
-**PAVITHRA K M** - Data Preparation & Preprocessing 
-**ANGEL GEORGE** - Feature Engineering & Dimensionality Reduction 
-**YADHU KRISHNAN V B** - Modeling, Evaluation & Analysis 
+- **PAVITHRA K M**: Data Preparation & Preprocessing
+- **ANGEL GEORGE**: Feature Engineering & Dimensionality Reduction  
+- **YADHU KRISHNAN V B**: Modeling, Evaluation & Analysis
 
 ## 📂 Dataset
 - **Source:** Kaggle (s4lman chess-pieces-dataset-85x85)
@@ -61,14 +62,14 @@ App link: https://chess-classifier.streamlit.app
 
 ## Screenshots
 
+<img width="1007" height="602" alt="Screenshot 2026-05-15 173629" src="https://github.com/user-attachments/assets/e90bb543-24dc-45d9-9e13-8cf7e85a1457" />
+<img width="1023" height="465" alt="Screenshot 2026-05-15 183215" src="https://github.com/user-attachments/assets/906b6554-70aa-4836-9d0c-2945ea730be4" />
 
-<img width="1096" height="647" alt="Screenshot 2026-05-15 173201" src="https://github.com/user-attachments/assets/fc1cf151-09e7-4caa-9eb6-5359f2e02c54" />
+<img width="928" height="577" alt="Screenshot 2026-05-15 172434" src="https://github.com/user-attachments/assets/f2b120c7-643e-4e36-9d49-442947e08c87" />
+<img width="1037" height="452" alt="Screenshot 2026-05-15 182801" src="https://github.com/user-attachments/assets/5eaea2e7-981c-44df-a95a-99a7fbf51143" />
 
-<img width="1007" height="602" alt="Screenshot 2026-05-15 173629" src="https://github.com/user-attachments/assets/067b40a4-f2e9-489f-b3c4-2d750d843773" />
-
-<img width="981" height="647" alt="Screenshot 2026-05-15 173133" src="https://github.com/user-attachments/assets/17578e8a-1d9d-48ff-8c55-710bf6ad0e84" />
-
-<img width="1001" height="677" alt="Screenshot 2026-05-15 173809" src="https://github.com/user-attachments/assets/c2f83781-e29b-496a-802d-33c0f88fb970" />
+<img width="983" height="656" alt="Screenshot 2026-05-15 183746" src="https://github.com/user-attachments/assets/f1409b82-5d6c-44c3-93b7-768a5c2a3a38" />
+<img width="986" height="448" alt="Screenshot 2026-05-15 183757" src="https://github.com/user-attachments/assets/1c287282-b116-4771-9dd5-5f8a6c036d66" />
 
 
 ## 📊 Results & Analysis
