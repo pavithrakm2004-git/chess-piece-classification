@@ -1,28 +1,15 @@
 # ♟️ Chess Piece Classification using HOG + SVM
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![Streamlit](https://img.shields.io/badge/Deployed-Streamlit-red)
-![ML](https://img.shields.io/badge/ML-SVM%20%7C%20HOG-green)
-
-## 📌 Problem Statement
-Classify chess pieces (King, Queen, Rook, Bishop, Knight, Pawn — both white and black — 12 classes)
-from segmented top-down chessboard square images. Preprocess by extracting individual squares and
-applying illumination normalization. Extract HOG features for shape contours, aspect ratio and area
-of the piece silhouette, and Hu moments for rotation-invariant shape description. Use PCA for
-dimensionality reduction. Train multi-class SVM (one-vs-one), KNN, and Random Forest classifiers.
-Evaluate per-piece classification accuracy and macro F1. Analyze how lighting variation and piece
-design differences affect HOG feature stability.
 
 ## 📖 Project Overview
 This project classifies chess pieces into **12 classes** (white/black × 6 piece types) from
 top-down board images using **HOG features** and **SVM classifier**.
 
 ## 👥 Team
-| Name | Role |
-|------|------|
-| **PAVITHRA K M** | Data Preparation & Preprocessing |
-| **ANGEL GEORGE** | Feature Engineering & Dimensionality Reduction |
-| **YADHU KRISHNAN V B** | Modeling, Evaluation & Analysis |
+
+**PAVITHRA K M** - Data Preparation & Preprocessing 
+**ANGEL GEORGE** - Feature Engineering & Dimensionality Reduction 
+**YADHU KRISHNAN V B** - Modeling, Evaluation & Analysis 
 
 ## 📂 Dataset
 - **Source:** Kaggle (s4lman chess-pieces-dataset-85x85)
