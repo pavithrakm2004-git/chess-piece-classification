@@ -44,3 +44,6 @@ chess-piece-classifier/
 ├── requirements.txt
 
 └── README.md
+
+
+##Model Deployment
