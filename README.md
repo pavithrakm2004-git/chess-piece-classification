@@ -49,10 +49,18 @@ chess-piece-classifier/
 ## Model Deployment
 Model Deployed using Streamlit
 
-App link: 
+App link: https://chess-classifier.streamlit.app
 
 ## Screenshots
 
+
+<img width="1096" height="647" alt="Screenshot 2026-05-15 173201" src="https://github.com/user-attachments/assets/fc1cf151-09e7-4caa-9eb6-5359f2e02c54" />
+
+<img width="1007" height="602" alt="Screenshot 2026-05-15 173629" src="https://github.com/user-attachments/assets/067b40a4-f2e9-489f-b3c4-2d750d843773" />
+
+<img width="981" height="647" alt="Screenshot 2026-05-15 173133" src="https://github.com/user-attachments/assets/17578e8a-1d9d-48ff-8c55-710bf6ad0e84" />
+
+<img width="1001" height="677" alt="Screenshot 2026-05-15 173809" src="https://github.com/user-attachments/assets/c2f83781-e29b-496a-802d-33c0f88fb970" />
 
 
 
