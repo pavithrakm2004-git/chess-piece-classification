@@ -47,3 +47,6 @@ chess-piece-classifier/
 
 
 ## Model Deployment
+Model Deployed using Streamlit
+
+App link: http://localhost:8501/
